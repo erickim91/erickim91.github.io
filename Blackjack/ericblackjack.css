@@ -1,0 +1,83 @@
+h1 {
+text-align: center;
+}
+
+body {
+}
+
+#leftStack {
+float: left;
+height: 600px;
+width: 364px;
+background-color: green;
+}
+
+#dealerArea {
+float: left;
+height: 300px;
+width: 600px;
+background-color: blue;
+}
+
+#playerArea {
+float:left;
+height: 300px;
+width: 600px;
+background-color: green;
+}
+
+#rightStack {
+float:right;
+height: 600px;
+width: 300px;
+background-color: green;
+}
+
+#cardBack {
+  padding-top: 164px;
+  padding-left: 86px;
+}
+
+#hitMe {
+  padding-top: 80px;
+  padding-left: 60px;
+}
+
+#stand {
+  padding-top: 80px;
+  padding-left: 60px;
+}
+
+.playerValueCounter {
+  background-color: yellow;
+  width: 100px;
+  height: 50px;
+  margin-top: 10px;
+  margin-left: 10px;
+  text-align: center;
+  font-size: 30px;
+  padding-top: 10px;
+}
+
+.dealerValueCounter {
+  background-color: yellow;
+  width: 100px;
+  height: 50px;
+  margin-top: 10px;
+  margin-left: 10px;
+  text-align: center;
+  font-size: 30px;
+  padding-top: 10px;
+}
+
+#dealerScore {
+  text-align: center;
+}
+
+#playerScore {
+  font-size: 200%;
+}
+
+.renderCards {
+
+}
